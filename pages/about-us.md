@@ -8,10 +8,13 @@ header:
 permalink: "/about-us/"
 widget1:
   title: "Our Founder"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  <!-- url: 'http://phlow.github.io/feeling-responsive/blog/' -->
   image: widget-1-302x182.jpg
   text: 'Betty, as her friends called her, started FISH of Laurel, Inc. to help low-income Laurel residents. She opened a food pantry in the basement of her home. With the aid of area volunteers and a telephone HelpLine, in addition to food from the food pantry, the group offered emergency financial aid and transportation. Twelve years later, the generous donation of "Elizabeth House" made it possible for FISH of Laurel to open a soup kitchen that fed a hot evening meal to area homeless folks, seven days each week. Bag lunches were offered at the end of the meal so folks would have some food for the next day. Can one person make a difference in their community? We think so!'
   name: "Polly"
+newwidget:
+  title: "asdf"
+  text: "blah"
 ---
 
 <!-- widget2:
