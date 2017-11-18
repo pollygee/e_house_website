@@ -1,7 +1,7 @@
-# - name: GitHub
-#   url: http://github.com/phlow
-#   class: icon-github
-#   title: Code und mehr...
+- name: GitHub
+  url: http://github.com/pollygee
+  class: icon-github
+  title: Polly Schandorf's Github
 
 - name: Twitter
   url: https://twitter.com/FishofLaurel
