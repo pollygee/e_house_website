@@ -17,7 +17,7 @@ widget2:
   title: "Food Pantry"
   url: 'http://github.com/pollygee/pantry'
   image: widget-1-302x182.jpg
-  text: We make appointments Tuesdays, Thursday and Saturday mornings.  We provide USDA food to clients who live in PG county.  All Laurel residents recieve food from Elizabeth House from donations and groceries we purchase.  For more information and to find out if you qualify, please call <b>240-547-9013</b>
+  text: 'We make appointments Tuesdays, Thursday and Saturday mornings.  We provide USDA food to clients who live in PG county.  All Laurel residents recieve food from Elizabeth House from donations and groceries we purchase.  For more information and to find out if you qualify, please call <b>240-547-9013</b>'
 
 widget3:
   title: "Our Founder"
