@@ -7,6 +7,7 @@ header:
    image_fullwidth: "food.jpg"
 permalink: "/about-us/"
 
+
 widget1:
   title: "Soup Kitchen"
   url: 'http://github.com/pollygee/kitchen'
@@ -27,3 +28,4 @@ widget3:
 
 ---
 
+<p>We are a non-profit 501(c)(3), all-volunteer food pantry and soup kitchen in Prince George's County Maryland. We serve homeless and low-income people in the greater Laurel area. We operate entirely with private and public donations of food, financial and volunteer assistance.</p>
