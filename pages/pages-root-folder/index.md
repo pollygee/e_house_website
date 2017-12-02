@@ -1,26 +1,7 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-
-
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-
-
-
-
-layout: frontpage
-header:
-  image_fullwidth: food.jpg
+  image_fullwidth: love_neighbor.png
 widget1:
   title: "Soup Kitchen"
   url: 'http://github.com/pollygee/kitchen'
@@ -38,7 +19,6 @@ widget3:
   url: 'https://github.com/pollyggee/bundles'
   image: widget-github-303x182.jpg
   text: '<em>Join us!</em> There are many ways you can get involved.  Some options are: Run a food drive, sign up for regular shifts, donate bagged lunches, donate money or food, help write grants to fund our mission, join the board.  The possibilities are endless.  <a href="https://docs.google.com/forms/d/e/1FAIpQLSen-Jd33N1c2wNrNqMTnfcALj_aAwbSFHVrvGC_aUO-I6kGAQ/viewform">Fill out this form</a> to give us more information about what you might be interested in or click the button below for more information.'
-
 
 #
 # Use the call for action to show a button on the frontpage

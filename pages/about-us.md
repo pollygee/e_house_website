@@ -7,7 +7,6 @@ header:
    image_fullwidth: "food.jpg"
 permalink: "/about-us/"
 
-
 widget1:
   title: "Soup Kitchen"
   url: 'http://github.com/pollygee/kitchen'
