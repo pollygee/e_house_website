@@ -17,7 +17,7 @@ widget2:
 widget3:
   title: "Get Involved"
   url: 'https://github.com/pollyggee/bundles'
-  image: widget-github-303x182.jpg
+  image: hands.jpg
   text: '<em>Join us!</em> There are many ways you can get involved.  Some options are: Run a food drive, sign up for regular shifts, donate bagged lunches, donate money or food, help write grants to fund our mission, join the board.  The possibilities are endless.  <a href="https://docs.google.com/forms/d/e/1FAIpQLSen-Jd33N1c2wNrNqMTnfcALj_aAwbSFHVrvGC_aUO-I6kGAQ/viewform">Fill out this form</a> to give us more information about what you might be interested in or click the button below for more information.'
 
 #
